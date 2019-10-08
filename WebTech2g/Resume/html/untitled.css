@@ -1,0 +1,25 @@
+header {
+    text-align: left;
+    padding: 20x 20x 20x 20x;
+    border-bottom: 5px solid black;
+}
+h1 {
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 40px;
+    padding: 25px 25px 25px 25px;
+
+}
+h2 {
+    font-family: "Times New Roman";
+    font-size: 30px;
+    padding: 25px 25px 25px 25px;
+}
+ul li{
+    float: right;
+    font-size: 20px;
+}
+article {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
